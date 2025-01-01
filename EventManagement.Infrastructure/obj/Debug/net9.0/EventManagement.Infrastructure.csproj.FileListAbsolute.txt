@@ -1,0 +1,5 @@
+C:\Projects\EventManagementSystem\EventManagement.Infrastructure\obj\Debug\net9.0\EventManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\EventManagementSystem\EventManagement.Infrastructure\obj\Debug\net9.0\EventManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EventManagementSystem\EventManagement.Infrastructure\obj\Debug\net9.0\EventManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\EventManagementSystem\EventManagement.Infrastructure\obj\Debug\net9.0\EventManagement.Infrastructure.AssemblyInfo.cs
+C:\Projects\EventManagementSystem\EventManagement.Infrastructure\obj\Debug\net9.0\EventManagement.Infrastructure.csproj.CoreCompileInputs.cache
