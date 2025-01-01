@@ -1,0 +1,12 @@
+C:\Projects\EventManagementSystem\EventManagement.Core\bin\Debug\net9.0\EventManagement.Core.deps.json
+C:\Projects\EventManagementSystem\EventManagement.Core\bin\Debug\net9.0\EventManagement.Core.dll
+C:\Projects\EventManagementSystem\EventManagement.Core\bin\Debug\net9.0\EventManagement.Core.pdb
+C:\Projects\EventManagementSystem\EventManagement.Core\obj\Debug\net9.0\EventManagement.Core.csproj.AssemblyReference.cache
+C:\Projects\EventManagementSystem\EventManagement.Core\obj\Debug\net9.0\EventManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EventManagementSystem\EventManagement.Core\obj\Debug\net9.0\EventManagement.Core.AssemblyInfoInputs.cache
+C:\Projects\EventManagementSystem\EventManagement.Core\obj\Debug\net9.0\EventManagement.Core.AssemblyInfo.cs
+C:\Projects\EventManagementSystem\EventManagement.Core\obj\Debug\net9.0\EventManagement.Core.csproj.CoreCompileInputs.cache
+C:\Projects\EventManagementSystem\EventManagement.Core\obj\Debug\net9.0\EventManagement.Core.dll
+C:\Projects\EventManagementSystem\EventManagement.Core\obj\Debug\net9.0\refint\EventManagement.Core.dll
+C:\Projects\EventManagementSystem\EventManagement.Core\obj\Debug\net9.0\EventManagement.Core.pdb
+C:\Projects\EventManagementSystem\EventManagement.Core\obj\Debug\net9.0\ref\EventManagement.Core.dll
