@@ -1,0 +1,8 @@
+C:\Projects\EventManagementSystem\EventManagement.UI\obj\Debug\net6.0\EventManagement.UI.csproj.AssemblyReference.cache
+C:\Projects\EventManagementSystem\EventManagement.UI\obj\Debug\net6.0\EventManagement.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EventManagementSystem\EventManagement.UI\obj\Debug\net6.0\EventManagement.UI.AssemblyInfoInputs.cache
+C:\Projects\EventManagementSystem\EventManagement.UI\obj\Debug\net6.0\EventManagement.UI.AssemblyInfo.cs
+C:\Projects\EventManagementSystem\EventManagement.UI\obj\Debug\net6.0\EventManagement.UI.csproj.CoreCompileInputs.cache
+C:\Projects\EventManagementSystem\EventManagement.UI\obj\Debug\net6.0\EventManagement.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\EventManagementSystem\EventManagement.UI\obj\Debug\net6.0\EventManagement.UI.RazorAssemblyInfo.cache
+C:\Projects\EventManagementSystem\EventManagement.UI\obj\Debug\net6.0\EventManagement.UI.RazorAssemblyInfo.cs

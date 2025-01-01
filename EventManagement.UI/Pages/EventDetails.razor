@@ -1,0 +1,43 @@
+@page "/events/{id:guid}"
+@inject HttpClient Http
+@using EventManagement.Core.DTOs
+@inject NavigationManager Navigation
+
+<h3>@eventDetail.Title</h3>
+<p>@eventDetail.Description</p>
+<p>Date: @eventDetail.Date.ToShortDateString()</p>
+<p>Time: @eventDetail.Time</p>
+<p>Location: @eventDetail.Location</p>
+<p>Category: @eventDetail.Category</p>
+<p>Organizer: @eventDetail.OrganizerName</p>
+<p>Capacity: @eventDetail.Capacity</p>
+<p>Registered: @eventDetail.RegisteredCount</p>
+<p>Average Rating: @eventDetail.AverageRating</p>
+
+<button @onclick="RegisterForEvent">Register</button>
+
+@code {
+    [Parameter]
+    public Guid id { get; set; }
+
+    private EventDetailDto eventDetail = new EventDetailDto();
+
+    protected override async Task OnInitializedAsync()
+    {
+        eventDetail = await Http.GetFromJsonAsync<EventDetailDto>($"api/events/{id}");
+    }
+
+    private async Task RegisterForEvent()
+    {
+        var registrationDto = new RegistrationDto { EventId = id };
+        var response = await Http.PostAsJsonAsync("api/registrations", registrationDto);
+        if (response.IsSuccessStatusCode)
+        {
+            // Kullanıcıya başarılı kayıt bildirimi
+        }
+        else
+        {
+            // Hata işleme
+        }
+    }
+}
